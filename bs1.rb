@@ -17,7 +17,7 @@ for n in a
   sleep 0.1
 end
 
-puts "summation complete - calling method 142 on sequence"
-puts "method name: #{spencecode.public_methods[142]}"
+puts "summation complete - calling method #{t} on sequence"
+puts "method name: #{spencecode.public_methods[t]}"
 puts "examination failure - signal extends into alternative dimension"
 puts "aborted"
