@@ -2,7 +2,7 @@ require 'cinch'
 
 messages = [
 'the nebulants report unusual activity on the feral register',
-'he blamed the static on interference at the komodo dragon level'
+'he blamed the static on interference at the komodo dragon level',
 'first world created',
 'analysing code for sklee residue'
 ''
